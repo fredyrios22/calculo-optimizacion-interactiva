@@ -29,7 +29,10 @@ El autor definió el objetivo de construir una clase digital de 90 minutos, sele
 No se debe afirmar que se ejecutó una prueba exhaustiva de navegadores, dispositivos o accesibilidad, ni que todos los controles se probaron desde la URL pública. Antes de entregar, verificar el simulador, navegación, soluciones y visualización móvil.
 
 ## Fuentes y bibliografía
-Los ejemplos matemáticos se desarrollaron para esta clase. El simulador no depende de bibliotecas externas. El autor proporcionó la portada de la siguiente obra como bibliografía de referencia del curso: Smith, Robert T.; Minton, Roland B.; Rafhi, Ziad A. T. *Cálculo: trascendentes tempranas*. 5.ª edición. McGraw Hill. (Datos tomados de la portada facilitada por el autor; año de publicación y páginas no verificados). No se afirma que los ejemplos del sitio procedan de páginas específicas de ese libro.
+Referencia indicada por el autor desde el aula virtual de Matemáticas de la Universidad de Antioquia: Robert Smith. *Cálculo, trascendentes tempranas*. McGraw-Hill, 2019. https://matematicas.udea.edu.co/virtual/mod/url/view.php?id=21371
+
+La portada suministrada contiene otros autores, por lo que no se presume correspondencia exacta con la ficha institucional. Los ejercicios de esta clase se desarrollaron para la actividad y no se atribuyen a páginas específicas del libro.
+
 
 ## Integridad académica
 El apoyo de IA no sustituye la comprensión ni la justificación de los resultados matemáticos. El autor deberá poder explicar de manera independiente las decisiones pedagógicas y las demostraciones presentadas.
