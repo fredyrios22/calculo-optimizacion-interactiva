@@ -44,4 +44,8 @@ Se utilizó ChatGPT (OpenAI, GPT-6) como apoyo para redactar el prototipo, la gu
 
 
 ## Bibliografía de referencia del curso
-Smith, Robert T.; Minton, Roland B.; Rafhi, Ziad A. T. *Cálculo: trascendentes tempranas*. Quinta edición. McGraw Hill (la ficha aportada indica McGraw Hill Interamericana y 2019). ISBN indicado en la ficha: 9781456269876; ISBN ebook: 9781456271428. **Nota de verificación:** la portada presenta título en español y tres autores, mientras la ficha indica idioma inglés y solo a Robert Smith; no se ha confirmado que los ISBN y el año correspondan exactamente a la edición de la portada.
+Robert Smith. *Cálculo, trascendentes tempranas*. McGraw-Hill, 2019.
+
+Referencia consignada en el recurso del aula virtual de Matemáticas de la Universidad de Antioquia: https://matematicas.udea.edu.co/virtual/mod/url/view.php?id=21371
+
+La portada facilitada por el autor presenta también a Roland B. Minton y Ziad A. T. Rafhi; no se ha verificado que esa portada corresponda a la misma ficha del recurso institucional.
