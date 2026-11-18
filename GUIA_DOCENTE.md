@@ -1,5 +1,7 @@
 # Guía docente — Sesión 15: Optimización y modelación
 
+**Autor:** John Fredy Ríos Restrepo.
+
 **Público:** estudiantes de primer semestre de Ingeniería en Cálculo Diferencial.  
 **Duración:** 90 minutos de clase; el trabajo independiente no está incluido.
 
@@ -36,3 +38,6 @@ Lámina rectangular de 30×20 cm: V=x(30−2x)(20−2x), 0<x<10. Derivada V'=12x
 
 ## Entrega y pendientes
 Abrir index.html en un navegador moderno, sin instalación. Publicar en alojamiento web estático y comprobar el enlace público, los permisos, los botones, los cálculos y la visualización en móvil. Personalizar identificación del estudiante. Incorporar bibliografía **realmente consultada** y declaración de IA con herramienta, empresa, modelo/versión, plan, fechas, aportes y procedimiento de verificación. No se deben inventar referencias ni fechas.
+
+## Transparencia de IA
+Se utilizó ChatGPT (OpenAI, GPT-6) como apoyo para redactar el prototipo, la guía y las explicaciones en noviembre de 2026. El autor revisó el prototipo visualmente y tomó decisiones sobre el recorrido didáctico. Antes de entregar, documentar el plan utilizado, las modificaciones propias y la verificación integral efectivamente realizada. Incorporar solo bibliografía consultada.
