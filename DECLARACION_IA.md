@@ -29,7 +29,7 @@ El autor definió el objetivo de construir una clase digital de 90 minutos, sele
 No se debe afirmar que se ejecutó una prueba exhaustiva de navegadores, dispositivos o accesibilidad, ni que todos los controles se probaron desde la URL pública. Antes de entregar, verificar el simulador, navegación, soluciones y visualización móvil.
 
 ## Fuentes y bibliografía
-Los ejemplos matemáticos se desarrollaron para esta clase. El simulador no depende de bibliotecas externas. **No se incluyen referencias bibliográficas no consultadas.** Completar la bibliografía con los materiales efectivamente estudiados por el autor, indicando autor, título, edición o enlace y fecha de consulta cuando corresponda.
+Los ejemplos matemáticos se desarrollaron para esta clase. El simulador no depende de bibliotecas externas. El autor proporcionó la portada de la siguiente obra como bibliografía de referencia del curso: Smith, Robert T.; Minton, Roland B.; Rafhi, Ziad A. T. *Cálculo: trascendentes tempranas*. 5.ª edición. McGraw Hill. (Datos tomados de la portada facilitada por el autor; año de publicación y páginas no verificados). No se afirma que los ejemplos del sitio procedan de páginas específicas de ese libro.
 
 ## Integridad académica
 El apoyo de IA no sustituye la comprensión ni la justificación de los resultados matemáticos. El autor deberá poder explicar de manera independiente las decisiones pedagógicas y las demostraciones presentadas.
