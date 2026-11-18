@@ -12,3 +12,6 @@
 En GitHub: Settings → Pages → Build and deployment → Deploy from a branch → rama main, carpeta /(root). Guardar y verificar la URL publicada desde un navegador privado.
 
 **Estado:** versión en revisión; faltan bibliografía verificada y comprobación pública del sitio.
+
+## Declaración de IA
+Consultar `DECLARACION_IA.md`: incluye herramienta, empresa, modelo identificado, plan ChatGPT Plus, contribuciones, decisiones del autor y estado de verificación.
