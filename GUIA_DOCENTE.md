@@ -44,4 +44,4 @@ Se utilizó ChatGPT (OpenAI, GPT-6) como apoyo para redactar el prototipo, la gu
 
 
 ## Bibliografía de referencia del curso
-Smith, Robert T.; Minton, Roland B.; Rafhi, Ziad A. T. *Cálculo: trascendentes tempranas*. 5.ª edición. McGraw Hill. (Datos tomados de la portada facilitada por el autor; año de publicación y páginas no verificados).
+Smith, Robert T.; Minton, Roland B.; Rafhi, Ziad A. T. *Cálculo: trascendentes tempranas*. Quinta edición. McGraw Hill (la ficha aportada indica McGraw Hill Interamericana y 2019). ISBN indicado en la ficha: 9781456269876; ISBN ebook: 9781456271428. **Nota de verificación:** la portada presenta título en español y tres autores, mientras la ficha indica idioma inglés y solo a Robert Smith; no se ha confirmado que los ISBN y el año correspondan exactamente a la edición de la portada.
